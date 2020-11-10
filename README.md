@@ -9,7 +9,7 @@ then execute
 
 ### `npm start`
 
-## More details below:
+## Getting more informations below:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
