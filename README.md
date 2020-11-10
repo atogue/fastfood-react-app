@@ -1,4 +1,4 @@
-@author: Anicet Togue
+@author: Anicet Togue - twitter: @atogue
 
 @requirement: node v8.10.x only
 
